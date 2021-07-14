@@ -43,5 +43,14 @@
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
     </item>
     
+    <item>
+      <title>Encargo 02: Mecanizado CNC</title>
+      <link>https://vicentevilla-w.github.io/docs/encargo_02/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://vicentevilla-w.github.io/docs/encargo_02/</guid>
+      <description>En este post veremos como funciona un mecanizado de producto, en este caso Silla Fresia</description>
+    </item>
+    
   </channel>
 </rss>
