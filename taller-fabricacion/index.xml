@@ -52,5 +52,14 @@
       <description>En este post veremos como funciona un mecanizado de producto, en este caso Silla Fresia</description>
     </item>
     
+    <item>
+      <title>Encargo 03: Mecanizado 2.5 Ejes</title>
+      <link>https://vicentevilla-w.github.io/taller-fabricacion/docs/encargo_03/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://vicentevilla-w.github.io/taller-fabricacion/docs/encargo_03/</guid>
+      <description>En este post veremos como se realiza la técnica de Mecanizado en 2,5 ejes de desplazamiento de la máquina CNC para modelar el respaldo de la “Silla Fresia”.</description>
+    </item>
+    
   </channel>
 </rss>
