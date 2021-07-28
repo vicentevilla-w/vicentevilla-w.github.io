@@ -1,82 +1,86 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Taller Espacio y Ciudad on Vicente Villanueva</title>
-    <link>https://vicentevilla-w.github.io/taller-ciudad-espacio/</link>
-    <description>Recent content in Taller Espacio y Ciudad on Vicente Villanueva</description>
+    <title>Taller Espacio y Ciudad on Agustín Vilajuana</title>
+    <link>https://agustinvilajuana.github.io/taller-ciudad-espacio/</link>
+    <description>Recent content in Taller Espacio y Ciudad on Agustín Vilajuana</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 May 2021 19:30:08 +1000</lastBuildDate><atom:link href="https://vicentevilla-w.github.io/taller-ciudad-espacio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 May 2021 19:30:08 +1000</lastBuildDate><atom:link href="https://agustinvilajuana.github.io/taller-ciudad-espacio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ejemplo Shortcodes</title>
-      <link>https://vicentevilla-w.github.io/taller-ciudad-espacio/docs/ejemplo/</link>
+      <link>https://agustinvilajuana.github.io/taller-ciudad-espacio/docs/ejemplo/</link>
       <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
-      <guid>https://vicentevilla-w.github.io/taller-ciudad-espacio/docs/ejemplo/</guid>
+      <guid>https://agustinvilajuana.github.io/taller-ciudad-espacio/docs/ejemplo/</guid>
       <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
     </item>
     
     <item>
       <title>Ejemplos Markdown</title>
-      <link>https://vicentevilla-w.github.io/taller-ciudad-espacio/docs/markdown/</link>
+      <link>https://agustinvilajuana.github.io/taller-ciudad-espacio/docs/markdown/</link>
       <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
-      <guid>https://vicentevilla-w.github.io/taller-ciudad-espacio/docs/markdown/</guid>
+      <guid>https://agustinvilajuana.github.io/taller-ciudad-espacio/docs/markdown/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
     </item>
     
     <item>
       <title>Encargo 01 - Tema</title>
-      <link>https://vicentevilla-w.github.io/taller-ciudad-espacio/docs/entrega-01/</link>
+      <link>https://agustinvilajuana.github.io/taller-ciudad-espacio/docs/entrega-01/</link>
       <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
-      <guid>https://vicentevilla-w.github.io/taller-ciudad-espacio/docs/entrega-01/</guid>
+      <guid>https://agustinvilajuana.github.io/taller-ciudad-espacio/docs/entrega-01/</guid>
       <description>Tema </description>
     </item>
     
     <item>
       <title>Encargo 02 - Dibujos</title>
-      <link>https://vicentevilla-w.github.io/taller-ciudad-espacio/docs/entrega-02/</link>
+      <link>https://agustinvilajuana.github.io/taller-ciudad-espacio/docs/entrega-02/</link>
       <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
-      <guid>https://vicentevilla-w.github.io/taller-ciudad-espacio/docs/entrega-02/</guid>
-      <description>Dibujos  Ver Pantalla Completa  function myFunction(id) { document.getElementById(id).classList.add(&#34;full-screen&#34;); } document.addEventListener(&#39;keydown&#39;, function(event){ if(event.key === &#34;Escape&#34;){ document.getElementById(&#39;pdf-hugo&#39;).classList.remove(&#34;full-screen&#34;); } });  </description>
+      <guid>https://agustinvilajuana.github.io/taller-ciudad-espacio/docs/entrega-02/</guid>
+      <description>Dibujos Sistemas Experiencia Consumidor Productos </description>
     </item>
     
     <item>
       <title>Encargo 03 - Propuesta de Valor</title>
-      <link>https://vicentevilla-w.github.io/taller-ciudad-espacio/docs/entrega-03-/</link>
+      <link>https://agustinvilajuana.github.io/taller-ciudad-espacio/docs/entrega-03-/</link>
       <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
-      <guid>https://vicentevilla-w.github.io/taller-ciudad-espacio/docs/entrega-03-/</guid>
-      <description>Valor Endógeno  Ver Pantalla Completa  function myFunction(id) { document.getElementById(id).classList.add(&#34;full-screen&#34;); } document.addEventListener(&#39;keydown&#39;, function(event){ if(event.key === &#34;Escape&#34;){ document.getElementById(&#39;pdf-hugo&#39;).classList.remove(&#34;full-screen&#34;); } });  </description>
+      <guid>https://agustinvilajuana.github.io/taller-ciudad-espacio/docs/entrega-03-/</guid>
+      <description>Valor Endógeno </description>
     </item>
     
     <item>
       <title>Encargo 04 - Diseño Sistémico</title>
-      <link>https://vicentevilla-w.github.io/taller-ciudad-espacio/docs/entrega-04-/</link>
+      <link>https://agustinvilajuana.github.io/taller-ciudad-espacio/docs/entrega-04-/</link>
       <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
-      <guid>https://vicentevilla-w.github.io/taller-ciudad-espacio/docs/entrega-04-/</guid>
+      <guid>https://agustinvilajuana.github.io/taller-ciudad-espacio/docs/entrega-04-/</guid>
       <description>Diseño Sistémico Productivo Diseño Sistémico Ampliado </description>
     </item>
     
     <item>
       <title>Encargo 05 - Modelado 3D</title>
-      <link>https://vicentevilla-w.github.io/taller-ciudad-espacio/docs/entrega-05-/</link>
+      <link>https://agustinvilajuana.github.io/taller-ciudad-espacio/docs/entrega-05-/</link>
       <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
-      <guid>https://vicentevilla-w.github.io/taller-ciudad-espacio/docs/entrega-05-/</guid>
+      <guid>https://agustinvilajuana.github.io/taller-ciudad-espacio/docs/entrega-05-/</guid>
       <description>Modelado 3D </description>
     </item>
     
     <item>
       <title>Encargo 06 - Midterm</title>
-      <link>https://vicentevilla-w.github.io/taller-ciudad-espacio/docs/entrega-06-/</link>
+      <link>https://agustinvilajuana.github.io/taller-ciudad-espacio/docs/entrega-06-/</link>
       <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
-      <guid>https://vicentevilla-w.github.io/taller-ciudad-espacio/docs/entrega-06-/</guid>
-      <description>Midterm Diseño Sistémico Productivo Diseño Sistémico Ampliado Modelos 3D Proceso / Experimentos Mezcla de Caucho con Parafina Mezcla de caucho con Aglomerante Elastomerico PU </description>
+      <guid>https://agustinvilajuana.github.io/taller-ciudad-espacio/docs/entrega-06-/</guid>
+      <description>Midterm    1st
+      2nd
+      3rd
+      4th
+      5th</description>
     </item>
     
   </channel>
