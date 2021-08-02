@@ -61,5 +61,14 @@
       <description>En este post veremos como se realiza la técnica de Mecanizado en 2,5 ejes de desplazamiento de la máquina CNC para modelar el respaldo de la “Silla Fresia”.</description>
     </item>
     
+    <item>
+      <title>Encargo 04: Simulación y Diseño Generativo</title>
+      <link>https://vicentevilla-w.github.io/taller-fabricacion/docs/encargo_04/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://vicentevilla-w.github.io/taller-fabricacion/docs/encargo_04/</guid>
+      <description>En este post veremos como se puede entender la estructura de un objeto analizando sus piezas en particular, y a través del diseño lograr mejorar la funcionalidad. También veremos una propuesta de diseño generativo por medio de una simulación.</description>
+    </item>
+    
   </channel>
 </rss>

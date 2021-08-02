@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <title>Encargo 04: Simulación y Diseño Generativo - Vicente Villanueva - Taller Fabricación 2021</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <link rel="icon" href="https://vicentevilla-w.github.io/taller-fabricacion/favicon.png">
+
+  
+  
+  <link rel="stylesheet" href="/taller-fabricacion/css/style.min.a32658f2eedb9bb852f8513925cb445e40633983f1ff54349b037dd04eafa2fa.css">
+  
+
+  
+
+</head>
+
+<body class='page page-default-single'>
+  <div id="main-menu-mobile" class="main-menu-mobile">
+  <ul>
+    
+    
+    <li class="menu-item-inicio">
+      <a href="/taller-fabricacion/">
+        <span>Inicio</span>
+      </a>
+    </li>
+    
+    <li class="menu-item-dococumentación">
+      <a href="/taller-fabricacion/docs/">
+        <span>Dococumentación</span>
+      </a>
+    </li>
+    
+  </ul>
+</div>
+  <div class="wrapper">
+    <div class='header'>
+  <div class="container">
+    <div class="logo">
+      <a href="https://vicentevilla-w.github.io/taller-fabricacion"><img alt="Logo" src="/taller-fabricacion/images/logo-uai.png" /></a>
+    </div>
+    <div class="logo-mobile">
+      <a href="https://vicentevilla-w.github.io/taller-fabricacion"><img alt="Logo" src="/taller-fabricacion/images/logo-uai.png" /></a>
+    </div>
+    <div id="main-menu" class="main-menu">
+  <ul>
+    
+    
+    <li class="menu-item-inicio">
+      <a href="/taller-fabricacion/">
+        <span>Inicio</span>
+      </a>
+    </li>
+    
+    <li class="menu-item-dococumentación">
+      <a href="/taller-fabricacion/docs/">
+        <span>Dococumentación</span>
+      </a>
+    </li>
+    
+  </ul>
+</div>
+    <button id="toggle-main-menu-mobile" class="hamburger hamburger--slider" type="button">
+  <span class="hamburger-box">
+    <span class="hamburger-inner"></span>
+  </span>
+</button>
+  </div>
+</div>
+
+
+    
+    
+    
+    
+    
+    
+
+    
+    <div class="container pt-2 pt-md-6 pb-3 pb-md-6">
+      <div class="row">
+        <div class="col-12 col-md-3 mb-3">
+          <div class="sidebar">
+            
+<div class="docs-menu">
+  <h4>Docs</h4>
+  <ul>
+    
+    <li class="">
+      <a href="https://vicentevilla-w.github.io/taller-fabricacion/docs/encargo_00/">Encargo 00</a>
+    </li>
+    
+    <li class="">
+      <a href="https://vicentevilla-w.github.io/taller-fabricacion/docs/encargo_01/">Encargo 01: Planimetrías</a>
+    </li>
+    
+    <li class="">
+      <a href="https://vicentevilla-w.github.io/taller-fabricacion/docs/ejemplo/">Ejemplo Shortcodes</a>
+    </li>
+    
+    <li class="">
+      <a href="https://vicentevilla-w.github.io/taller-fabricacion/docs/markdown/">Ejemplos Markdown</a>
+    </li>
+    
+    <li class="">
+      <a href="https://vicentevilla-w.github.io/taller-fabricacion/docs/encargo_02/">Encargo 02: Mecanizado CNC</a>
+    </li>
+    
+    <li class="">
+      <a href="https://vicentevilla-w.github.io/taller-fabricacion/docs/encargo_03/">Encargo 03: Mecanizado 2.5 Ejes</a>
+    </li>
+    
+    <li class="active ">
+      <a href="https://vicentevilla-w.github.io/taller-fabricacion/docs/encargo_04/">Encargo 04: Simulación y Diseño Generativo</a>
+    </li>
+    
+  </ul>
+</div>
+
+          </div>
+        </div>
+        <div class="col-12 col-md-9">
+          
+<h1 class="title">Encargo 04: Simulación y Diseño Generativo</h1>
+<div class="content ">
+  <p>En este post veremos como se puede entender la estructura de un objeto analizando sus piezas en particular, y a través del diseño lograr mejorar la funcionalidad. También veremos una propuesta de diseño generativo por medio de una simulación.</p>
+<h3 id="en-este-caso-veremos-el-ejemplo-con-el-ala-de-un-avión">En este caso veremos el ejemplo con el ala de un avión:</h3>
+<h2 id="ala-completa">Ala Completa</h2>
+<div>
+    <iframe 
+    src='https://alumnos4811.autodesk360.com/shares/public/SH56a43QTfd62c1cd968f2e8c35373f6f862?mode=embed'
+    width="100%" 
+    height="450" 
+    allowfullscreen="true" 
+    webkitallowfullscreen="true" 
+    mozallowfullscreen="true"  
+    frameborder="0">
+    </iframe>    
+</div>
+<p>Como buscamos lograr buscar que el avión aumente su potencial logrando que sea mas liviano, vamos a analizar la pieza que más se repite, en este caso el perfil alar.</p>
+<h2 id="ala-sola">Ala Sola:</h2>
+<div>
+    <iframe 
+    src='https://alumnos4811.autodesk360.com/shares/public/SH56a43QTfd62c1cd9681ac2b85fda2ff703?mode=embed'
+    width="100%" 
+    height="450" 
+    allowfullscreen="true" 
+    webkitallowfullscreen="true" 
+    mozallowfullscreen="true"  
+    frameborder="0">
+    </iframe>    
+</div>
+<h2 id="pasos-simulación">Pasos Simulación:</h2>
+<h2 id="paso-1">Paso 1</h2>
+<ol>
+<li>Seleccionar el área de trabajo:</li>
+</ol>
+<p>Empezamos desde el menú de simulación y creamos un <code>New Study</code> y trabajamos desde la opción &ldquo;Static Stress&rdquo;</p>
+<p><img src="/taller-fabricacion/img/screen5.png" alt="Imagen Simple"></p>
+<h2 id="paso-2">Paso 2</h2>
+<ol start="2">
+<li>Seleccionar las caras que quedaran fijas:</li>
+</ol>
+<p>Para esto debemos ir a <code>Contrains</code> en el &ldquo;menú superior&rdquo; y seleccionamos las piezas que quedarán fijas al perfin de ataque y salida, dado que estas partes del ala no pueden recibir alteraciones.</p>
+<p><img src="/taller-fabricacion/img/screen1.png" alt="Imagen Simple"></p>
+<p><img src="/taller-fabricacion/img/screen2.png" alt="Imagen Simple"></p>
+<h2 id="paso-3">Paso 3</h2>
+<ol start="3">
+<li>Determinar el peso que soportará la pieza:</li>
+</ol>
+<p>En el &ldquo;menú superior&rdquo; seleccionamos <code>Loads</code> para determinar el peso que puede soportar la pieza. Seleccionamos la cara inferior y ponemos un peso de 1000 N (Newtons)</p>
+<p><img src="/taller-fabricacion/img/screen3.png" alt="Imagen Simple"></p>
+<p>Luego seleccionamos la opción <code>Pre-Check</code> para aclarar que los datos esten correctos. Para corroborar que estan correctos nos deberia aparecer el siguente mensaje:</p>
+<p>&quot; The study setup has all the information rquiered&quot;</p>
+<h2 id="paso-4">Paso 4</h2>
+<ol start="4">
+<li>Resultados del estudio:</li>
+</ol>
+<p>Para ver nuestros resultados del analisis de la pieza, vamos al &ldquo;menú superior&rdquo; y seleccionamos la opción <code>Solve</code>donde se abrira una nueva ventana y nos mostrará los estudios que se hicieron sobre el peso ejercido en la pieza.</p>
+<p><img src="/taller-fabricacion/img/screen4.png" alt="Imagen Simple"></p>
+<p>La parte que nos apunta la flecha azul es la que más deformación tiene y considerando que esta es la pieza de un ala de avión, puede implicar un gran peligro al momento del vuelo.</p>
+<p>La barra de colores que podemos ver al costado derecho es un indicador de las zonas que menos deformación tienen (azul) y de aquellas que se ven más afectadas con el peso (rojo)</p>
+<div>
+    <video 
+    width="100%" 
+    height="450" 
+    autoplay muted loop controls preload>
+    <source src="/taller-fabricacion/img/vid_screen.mp4"  type="video/mp4">
+    </video>
+</div>
+
+</div>
+</div>
+
+        </div>
+      </div>
+    </div>
+    
+  </div>
+
+  
+
+  
+
+  
+  
+
+  
+  <script type="text/javascript" src="/taller-fabricacion/js/scripts.min.eaf147370baecdd07c022597db631f99cab1c9cd6479de586f30327a568d6a0f.js"></script>
+  
+
+  
+  
+  
+    
+  
+
+
+</body>
+
+</html>
