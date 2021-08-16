@@ -70,5 +70,14 @@
       <description>En este post veremos como se puede entender la estructura de un objeto analizando sus piezas en particular, y a través del diseño lograr mejorar la funcionalidad. También veremos una propuesta de diseño generativo por medio de una simulación.</description>
     </item>
     
+    <item>
+      <title>Encargo 05: Impresión 3D </title>
+      <link>https://vicentevilla-w.github.io/taller-fabricacion/docs/encargo_05/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://vicentevilla-w.github.io/taller-fabricacion/docs/encargo_05/</guid>
+      <description>En este post veremos desde un proceso de simulación como se efectúa una impresión 3D. La Impresión 3D es una avance muy importante de tecnologías de fabricación por adición donde un objeto tridimensional es creado mediante la superposición de capas sucesivas de material.</description>
+    </item>
+    
   </channel>
 </rss>
