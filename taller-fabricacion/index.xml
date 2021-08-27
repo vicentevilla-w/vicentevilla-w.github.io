@@ -79,5 +79,14 @@
       <description>En este post veremos desde un proceso de simulación como se efectúa una impresión 3D. La Impresión 3D es una avance muy importante de tecnologías de fabricación por adición donde un objeto tridimensional es creado mediante la superposición de capas sucesivas de material.</description>
     </item>
     
+    <item>
+      <title>Encargo 06: Complementario </title>
+      <link>https://vicentevilla-w.github.io/taller-fabricacion/docs/encargo_06/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://vicentevilla-w.github.io/taller-fabricacion/docs/encargo_06/</guid>
+      <description>En este post veremos como realizar un modelo 3D en blanco usando herramientas de superficies para luego generar un cuerpo sólido con un grosor en su interior, generando un prototipo de recipiente.</description>
+    </item>
+    
   </channel>
 </rss>
