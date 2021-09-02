@@ -88,5 +88,14 @@
       <description>En este post veremos como realizar un modelo 3D en blanco usando herramientas de superficies para luego generar un cuerpo sólido con un grosor en su interior, generando un prototipo de recipiente.</description>
     </item>
     
+    <item>
+      <title>Encargo 07: Complementario </title>
+      <link>https://vicentevilla-w.github.io/taller-fabricacion/docs/encargo_07/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://vicentevilla-w.github.io/taller-fabricacion/docs/encargo_07/</guid>
+      <description>En este post veremos como insertar un iFrame de Fusion 360 en nuestra plataforma web mediante Markdown</description>
+    </item>
+    
   </channel>
 </rss>
